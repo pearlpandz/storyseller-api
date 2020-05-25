@@ -1,0 +1,56 @@
+html
+- tags
+
+
+css
+- cross browser things
+- sprite img
+- anyother css frameworks
+- flex, grid
+
+
+javascript
+- datatypes
+- DOM - dynamic insertion of HTMLelement
+- DOM operations
+
+
+typescript
+- what is typescript? 
+- difference b/w typescript and javascript?
+- difference b/w let, const, var?
+- bind
+- call
+- prototype
+- falsy values in javascript
+
+
+angular
+- what is angular?
+- directive
+- components
+- custom directives
+- pipes
+- interceptors
+- services
+- karma
+- jasmine
+- models
+- dependency injection
+- entry components
+- shared modules
+- reusable component
+- life cycle
+- ngoninit, construnctor
+- subscribe, unsubscribe
+- observable
+- decorators 
+- @Input, @output, event emitter, Viewchild
+- local storage, session storage
+
+
+
+html + css + js + typescript + angular
+
+
+

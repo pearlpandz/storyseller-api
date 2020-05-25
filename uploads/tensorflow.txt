@@ -1,0 +1,12 @@
+python virtual environment
+
+create
+python3 -m venv <myenvname>
+
+
+
+https://github.com/arunponnusamy/cvlib/tree/master/examples
+
+tensorflow
+https://www.tensorflow.org/lite/examples
+https://www.tensorflow.org/js/models
